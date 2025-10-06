@@ -1,2 +1,2 @@
 # OS
-Here is the algorithm experiments of OS
+C++ implementations of OS algorithms(Cpu Scheduling,Deadlock Handling , Banker's Algorithm , etc.
